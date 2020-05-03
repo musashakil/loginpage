@@ -1,0 +1,256 @@
+body{
+	background-color: #EFF1F7; 
+	padding: 0px;
+	margin: 0px;
+}
+
+.header1{
+	background: #47639E;
+	height: 80px;
+	width: 100%;
+}
+.logo1{
+	font-size: 45px;
+	color: #ffffff;
+	position: absolute;
+	top: 2.5%;
+	left: 170px;
+	font-weight: bold;
+	font-family: Helvetica, Arial, sans-serif;
+}
+.email_or_phone{
+	position: absolute;
+	right: 490px;
+	top: 14px;
+	font-size: 12px;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #ffffff;
+
+}
+.Password1{
+	position: absolute;
+	right: 358px;
+	top: 14px;
+	font-size: 12px;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #ffffff;
+}
+.emailbox{
+	position: absolute;
+	right: 101px;
+	top: 32px;
+}
+.email{
+	width: 150px;
+	height: 18px;
+	border: 1px solid #606770;
+}
+.password{
+	width: 150px;
+	height: 18px;
+	border: 1px solid #606770;
+	margin-left: 5px
+}
+.select{
+	margin-left: -130px;
+	margin-top: 10px;
+}
+.submit{
+	background-color: #4267B2;
+	color: #ffffff;
+	border: .5px solid #808080;
+	height: 20px;
+	cursor: pointer;
+}
+.submit:hover{
+	background-color: #0070E0;
+	color: #ffffff;
+	border: .5px solid #808080;
+	height: 20px;
+	cursor: pointer;
+}
+.forget{
+	position: relative;
+	top: 20px;
+	text-decoration: none;
+	left: -205px;
+	color: #9CB4D8;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
+.forget:hover{
+	text-decoration: underline;
+}
+.wrapper{
+	overflow: hidden;
+}
+.left1{
+	color: #0e385f;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    margin-left: 170px;
+    width: 450px;
+	font-family: Helvetica, Arial, sans-serif;
+	float: left;
+
+}
+.create1{
+	min-height: 150px;
+	width: 400px;
+	float: right;
+	font-family: Helvetica, Arial, sans-serif;
+	margin: 6%
+}
+.c1{
+	font-size: 38px;
+	color: #333333;
+	margin-left: -130px;
+	margin-top: -63px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+.c2{
+	font-size: 20px;
+    margin-left: -130px;
+    margin-top: 12px;
+    color: #333333;
+}
+.first_name{
+	width: 190px;
+	height: 20px;
+	margin-left: -130px;
+	font-size: 18px;
+	color: #9C999C;
+	padding: 6px;
+}
+.last_name{
+	width: 190px;
+	height: 20px;
+	margin-left: 5px;
+	font-size: 18px;
+	color: #9C999C;
+	padding: 6px;
+}
+.email2{
+	width: 404px;
+	height: 20px;
+	margin-left: -130px;
+	margin-top: 10px;
+	font-size: 18px;
+	color: #9C999C;
+	padding: 6px;
+}
+.password2{
+	width: 404px;
+	height: 20px;
+	margin-left: -130px;
+	margin-top: 10px;
+	font-size: 18px;
+	color: #9C999C;
+	padding: 6px;
+}
+label{
+	color: #90949C;
+	margin-left: -130px;
+}
+.birthday{
+	width: 404px;
+	height: 20px;
+	margin-left: -130px;
+	margin-top: 10px;
+	font-size: 18px;
+	color: #9C999C;
+	padding: 6px;
+}
+.gender1{
+	margin-left: -130px;
+	margin-top: 10px;
+}
+.button{
+	background-color: #5C9348;
+	border: .5px solid #3B6E22;
+	width: 230px;
+	height: 37px;
+	margin-left: -130px;
+	margin-top: 88px;
+	font-size: 18px;
+	color: #ffffff;
+	padding: 6px;
+}
+.t1{
+	width: 330px;
+	min-height: 20px;
+	margin-left: -130px;
+	margin-top: -105px;
+	font-size: 12px;
+	color: #9C999C;
+	line-height: 18px;
+}
+.page1{
+    min-height: 20px;
+    width: 300px;
+	font-size: 12px;
+	margin-left: -130px;
+	margin-top: 88px;
+	color: #666666;
+}
+
+.footer{
+	min-height: 150px;
+	margin: 0px;
+	padding: 0px;
+	background-color: #ffffff;
+}
+.lang1{
+	margin-left: 170px;
+	margin-top: 50px;
+	position: absolute;
+	font-size: 12px;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #737373;
+}
+.hober{
+	text-decoration: none;
+	font-family: Helvetica, Arial, sans-serif;
+}
+.hober:hover{
+	text-decoration: underline;
+}
+.hober1{
+	padding: 0px;
+	margin-left: 10px;
+	color: #385898;
+	font-size: 12px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+.rec{
+	width: 70%;
+	height: 1.5px;
+	background-color: #DDDFE2;
+	position: absolute;
+	margin-left: 170px;
+	margin-top: 77px;
+}
+.service{
+	margin-left: 170px;
+	margin-top: 96px;
+	position: absolute;
+	font-size: 12px;
+	color: #737373;
+}
+.hober2{
+	padding: 0px;
+	margin-left: 15px;
+	color: #385898;
+	font-size: 13px;
+	line-height: 20px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+.hober3{
+	padding: 0px;
+	color: #385898;
+	font-size: 13px;
+	line-height: 20px;
+	font-family: Helvetica, Arial, sans-serif;
+}
